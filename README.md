@@ -76,7 +76,7 @@ for i in range(5):
     plt.imshow(img)
     plt.show()
 ```
-
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_2_0.png)
 
 ![image](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_0.png)
 
