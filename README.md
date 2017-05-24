@@ -78,11 +78,11 @@ for i in range(5):
 ```
 
 
-![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_0.png)
+![](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_0.png)
 
 
 
-![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_1.png)
+![](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_1.png)
 
 
 
