@@ -78,43 +78,43 @@ for i in range(5):
 ```
 
 
-![png](output_5_0.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_0.png)
 
 
 
-![png](output_5_1.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_1.png)
 
 
 
-![png](output_5_2.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_2.png)
 
 
 
-![png](output_5_3.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_3.png)
 
 
 
-![png](output_5_4.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_4.png)
 
 
 
-![png](output_5_5.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_5.png)
 
 
 
-![png](output_5_6.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_6.png)
 
 
 
-![png](output_5_7.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_7.png)
 
 
 
-![png](output_5_8.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_8.png)
 
 
 
-![png](output_5_9.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_5_9.png)
 
 
 # define some usefull function for the feature extraction
@@ -248,31 +248,31 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_0.png)
 
 
 
-![png](output_10_1.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_1.png)
 
 
 
-![png](output_10_2.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_2.png)
 
 
 
-![png](output_10_3.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_3.png)
 
 
 
-![png](output_10_4.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_4.png)
 
 
 
-![png](output_10_5.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_5.png)
 
 
 
-![png](output_10_6.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_10_6.png)
 
 
 # train and test the SVM classifier
@@ -461,7 +461,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_16_0.png)
 
 
 # Define a heat map in order to remove the false positive
@@ -536,7 +536,7 @@ plt.show()
 
 
 
-![png](output_19_1.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_19_1.png)
 
 
 # define the pipeline to be used in the video
@@ -598,27 +598,27 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_24_0.png)
 
 
 
-![png](output_24_1.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_24_1.png)
 
 
 
-![png](output_24_2.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_24_2.png)
 
 
 
-![png](output_24_3.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_24_3.png)
 
 
 
-![png](output_24_4.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_24_4.png)
 
 
 
-![png](output_24_5.png)
+![png](https://github.com/lorenzosteccanella/Vehicle-Detection/tree/master/Images_for_readme/output_24_5.png)
 
 
 # compute the video car detection
