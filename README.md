@@ -693,25 +693,6 @@ white_clip = clip1.fl_image(video_pipeline) #NOTE: this function expects color i
     Wall time: 6min 34s
 
 
-# attach the video in the notebook
-
-
-```python
-HTML("""
-<video width="960" height="540" controls>
-  <source src="{0}">
-</video>
-""".format("./project_video_output.mp4"))
-```
-
-
-
-
-
-<video width="960" height="540" controls>
-  <source src="./project_video_output.mp4">
-</video>
-
 
 
 
